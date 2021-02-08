@@ -1,0 +1,28 @@
+20210209
+
+https://www.w3schools.com/nodejs/nodejs_get_started.asp
+
+○ Node.js Get Started
+
+- node.js 설치함
+- 설치후 예제 파일 202102090014HelloWorld.js 을 생성
+- Node.js command prompt 을 실행
+- 'C:\Users\내 이름> ' 주소로 프롬프트가 실행되면 해당 위치에 파일을 위치시키고
+  'C:\Users\내 이름>node 파일명.js ' 로 실행시킴
+- http://localhost:8080 로 확인
+
+
+var http = require('http');
+
+http.createServer(function (req, res) {
+  res.writeHead(200, {'Content-Type': 'text/html'});
+  res.end('Hello World!');
+}).listen(8080);
+
+
+- 실행 중에 성공 실패 표시가 없음
+- 종료시에도 뭔가 표시가 없음
+
+
+- 파일을 실행시키는 위치가 너무 불편한 데 찾아보면 옮길 수 있을 것 같다
+ 
