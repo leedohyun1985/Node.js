@@ -65,3 +65,10 @@ http.createServer(function (req, res) {
 
 - 정상동작함
 
+○ Node.js File System Module
+https://www.w3schools.com/nodejs/nodejs_filesystem.asp
+
+C:\Users\lonel\OneDrive\문서\GitHub\Node.js
+
+
+
