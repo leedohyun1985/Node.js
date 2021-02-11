@@ -1,0 +1,23 @@
+{
+  "name": "node",
+  "version": "1.0.0",
+  "description": "Node.js 학습내용정리",
+  "main": "202102090014HelloWorld.js",
+  "dependencies": {
+    "upper-case": "^2.0.2"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/leedohyun1985/Node.js.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/leedohyun1985/Node.js/issues"
+  },
+  "homepage": "https://github.com/leedohyun1985/Node.js#readme"
+}
