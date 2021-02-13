@@ -5,6 +5,7 @@
   "main": "202102090014HelloWorld.js",
   "dependencies": {
     "formidable": "^1.2.2",
+    "nodemailer": "^6.4.18",
     "upper-case": "^2.0.2"
   },
   "devDependencies": {},
